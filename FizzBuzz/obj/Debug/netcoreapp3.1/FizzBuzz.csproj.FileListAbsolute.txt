@@ -1,0 +1,12 @@
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.deps.json
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.json
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.dev.json
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/markdixon/Documents/My_Docs/Programming/GitHub Projects/FizzBuzzCSharp/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache
